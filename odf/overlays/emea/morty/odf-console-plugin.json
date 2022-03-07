@@ -1,0 +1,9 @@
+[
+  {
+    "op": "add",
+    "path": "/spec/plugins",
+    "value": [
+        "odf-console"
+    ]
+  }
+]
